@@ -8,9 +8,7 @@ from vk_api.longpoll import VkLongPoll, VkEventType
 from vk_api.keyboard import VkKeyboard, VkKeyboardColor
 from vk_api.utils import get_random_id
 
-# криптобот токен TOKEN = 'b67a3fc0f8b1967462ccb0286df9ffba68698cf3e9e6354d53ef2bef6ff1147e68bf067c1586083ca662a'
-TOKEN = "28853c67a17b8fa800d88eec13666ee34392a3c66d220377b40a41f19540afe8673cd6fa3919864fdfd58"
-# Вак бот токен TOKEN = '1e943b35a07460af3cfc0dfc2e64e3c4325b50af16bdd0c21975532a2bcd1e76c796168f2bd3b926ce7d4'
+TOKEN = "token"
 
 music = ['audio534311809_456240505']
 
